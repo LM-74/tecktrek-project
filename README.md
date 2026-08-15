@@ -9,8 +9,8 @@
 - Loay Mohamed Khalid Khalid - 23012117
 
 **Links**
-- [GitHub Repositiory]('https://github.com/LM-74/tecktrek-project')
-- [LinkedIn Post]('https://google.com')
+- [GitHub Repositiory](https://github.com/LM-74/tecktrek-project)
+- [LinkedIn Post](https://www.linkedin.com/posts/loay-elmitwaly-7679642b4_machinelearning-python-scikitlearn-ugcPost-7494313819125620737-mB9r/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuasT8BV942RlBZak8223K5GqToJI2K8kE)
 
 **How to use**
 - To check analysis and complete workflow from loading and preprocessing to modeling and tuning, open `Notebooks/techtrek_project.ipynb`
